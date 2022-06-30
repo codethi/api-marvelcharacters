@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Wanda Maximoff",
+    "image": "https://static.wikia.nocookie.net/marvel/images/4/48/Scarlet_Witch_Vol_2_2_Anka_Variant_Textless.jpg",
+    "reality": "Terra-616",
+    "identity": "Feiticeira Escarlate"
+  },
+  {
+    "name": "Peter Parker",
+    "image": "https://static.wikia.nocookie.net/marvel/images/5/58/Marvel_Universe_Ultimate_Spider-Man_Vol_1_1_Textless.jpg",
+    "reality": "Terra-12041",
+    "identity": "Homem-Aranha"
+  },
+  {
+    "name": "John Flynn",
+    "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/John_Flynn_%28Earth-82111%29_from_What_If...%3F_%28animated_series%29_Season_1_1_001.png",
+    "reality": "Terra-82111",
+    "identity": "John Flynn"
+  },
+  {
+    "name": "Eric Brooks",
+    "image": "https://static.wikia.nocookie.net/marveldatabase/images/e/e4/Avengers_Vol_8_42_Black_History_Month_Variant_Textless.jpg",
+    "reality": "Terra-616",
+    "identity": "Blade"
+  },
+  {
+    "name": "Sergei Kravinoff",
+    "image": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/Sergei_Kravinoff_%28Earth-616%29_from_Sinister_War_Vol_1_3_Handbook_Variant_Cover.jpg",
+    "reality": "Terra-616",
+    "identity": "Kraven, o Caçador"
+  }
+]

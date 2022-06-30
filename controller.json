@@ -1,0 +1,60 @@
+{
+  "characters": [
+    {
+      "name": "Steven Rogers",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/0/01/Steven_Rogers_%28Earth-82111%29_from_Marvel_Legends_promotional_artwork_001.jpg",
+      "reality": "Terra-82111",
+      "identity": "Esmagador Hidra",
+      "id": 1
+    },
+    {
+      "name": "Peter Parker",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/d/da/Amazing_Spider-Man_Vol_5_15_Textless.jpg",
+      "reality": "Terra-12041",
+      "identity": "Homem-Aranha",
+      "id": 2
+    },
+    {
+      "name": "John Flynn",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/c/c2/John_Flynn_%28Earth-82111%29_from_What_If...%3F_%28animated_series%29_Season_1_1_001.png",
+      "reality": "Terra-82111",
+      "identity": "John Flynn",
+      "id": 3
+    },
+    {
+      "name": "Eric Brooks ",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/e/e4/Avengers_Vol_8_42_Black_History_Month_Variant_Textless.jpg",
+      "reality": "Terra-616",
+      "identity": "Blade",
+      "id": 4
+    },
+    {
+      "name": "Sergei Kravinoff",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/d/d7/Sergei_Kravinoff_%28Earth-616%29_from_Sinister_War_Vol_1_3_Handbook_Variant_Cover.jpg",
+      "reality": "Terra-616",
+      "identity": "Kraven, o Caçador",
+      "id": 5
+    },
+    {
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/6/63/Aldrif_Odinsdottir_%28Earth-TRN517%29_from_Marvel_Contest_of_Champions_001.jpg",
+      "name": "Aldrif Odinsdottir",
+      "reality": "Terra-616",
+      "identity": "Angela",
+      "id": 6
+    },
+    {
+      "name": "One-Above-All",
+      "image": "https://s.aficionados.com.br/imagens/quem-e-one-above-all-a-marvel-nao-existiria-sem-ele_f.jpg",
+      "reality": "Multiverso",
+      "identity": "One-Above-All",
+      "id": 7
+    },
+    {
+      "name": "Stanley Stewart",
+      "image": "https://static.wikia.nocookie.net/marveldatabase/images/e/e7/Stanley_Stewart_%28Earth-712%29_from_Ultimate_Power_Vol_1_7_001.jpg",
+      "reality": "Terra-712",
+      "identity": "Tufão",
+      "id": 9
+    }
+  ]
+}
