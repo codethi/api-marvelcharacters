@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch controller.json"
+    "start": "node server.js",
+    "dev": "json-server --watch db.json"
   },
   "keywords": [],
   "author": "",
